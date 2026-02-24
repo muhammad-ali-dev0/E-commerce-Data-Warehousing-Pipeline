@@ -207,7 +207,7 @@ ecommerce-data-warehouse/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/ecommerce-data-warehouse
+git clone https://github.com/muhammad-ali-dev0/ecommerce-data-warehouse
 
 # 2. Install dbt
 pip install dbt-snowflake   # or dbt-bigquery
